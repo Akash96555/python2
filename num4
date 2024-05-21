@@ -1,0 +1,8 @@
+
+X, Y = map(int, input().split())
+
+
+max_customers = X * Y
+
+
+print(max_customers)
