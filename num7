@@ -1,0 +1,13 @@
+
+T = int(input())
+
+
+for _ in range(T):
+    
+    A, B = map(int, input().split())
+    
+    
+    total = A + B
+    
+    
+    print(total)
